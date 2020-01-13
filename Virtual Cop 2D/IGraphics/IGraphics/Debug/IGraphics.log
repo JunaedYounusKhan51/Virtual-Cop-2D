@@ -1,0 +1,17 @@
+﻿Build started 5/13/2016 1:50:09 AM.
+     1>Project "D:\most final 4.16 am\Lab Project-Before first check\Lab Project\Virtual Cop 2D\IGraphics\IGraphics\IGraphics.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\IGraphics.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         IGraphics.vcxproj -> D:\most final 4.16 am\Lab Project-Before first check\Lab Project\Virtual Cop 2D\IGraphics\Debug\IGraphics.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\IGraphics.unsuccessfulbuild".
+         Touching "Debug\IGraphics.lastbuildstate".
+     1>Done Building Project "D:\most final 4.16 am\Lab Project-Before first check\Lab Project\Virtual Cop 2D\IGraphics\IGraphics\IGraphics.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.09
